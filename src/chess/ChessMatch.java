@@ -30,3 +30,5 @@ public class ChessMatch {
 			board.placePiece(new King (board, Color.WHITE), new Position (7,4));
 		}
 }
+
+//9:40 - erro na excessão
