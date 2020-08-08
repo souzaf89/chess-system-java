@@ -36,5 +36,3 @@ public class ChessPosition {
 		return "" +  column + row;
 	}
 }
-
-// Aula 153 - parei nos 9:24
