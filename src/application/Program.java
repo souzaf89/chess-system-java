@@ -46,9 +46,9 @@ public class Program {
 						catch (InputMismatchException e) {
 							System.out.println(e.getMessage());
 							sc.nextLine();
-						}
+						} 
 				}		
 		}
 }
 
-//5:59
+//Parei na aula 164 com 11min de video 
